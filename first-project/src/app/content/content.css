@@ -1,0 +1,13 @@
+.content {
+  padding: 70px 10%;
+}
+
+.content__info {
+
+  display: flex;
+}
+
+.content__title h2 {
+  text-align: center;
+}
+
